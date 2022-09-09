@@ -1,0 +1,35 @@
+### Serviços
+  - tapa-buraco, limpeza de bueiros e canais naturais, troca de lâmpadas de postes, coleta de entulho e lixo, serviço de limpa fossa e entre outros
+
+  - Sugestões e pedidos;
+    - Cultura, esporte e lazer
+      - Manutenção e limpeza de praças públicas municipais
+      - Reforma e revitalização de praças
+      - Proposta para implantação de ciclovias, ciclofaixas e ciclorrotas
+    - Lixo e limpeza
+      - Remoção de entulho em via pública
+    - Rua e Bairro
+      - Tapa-buraco;
+    - Segurança urbana
+      - Solicitação de policiamento
+    - Trânsito e transporte
+      - Fiscalização de veículo estacionado ou parado em local proibido
+    
+  - Dúvidas e elogios;
+  - Reclamações e denúncias.
+    - Comercio e serviços
+      - Denúncia de condições inadequadas de criação;
+      - Estabelecimento com ruídos e venda de bebida alcoólica entre 1h e 5h da manhã
+      - Fiscalização de estabelecimentos comerciais e serviços
+      - Fiscalização de feira livre
+    - Educação
+      - Denúncia de irregularidades em creches conveniadas
+    - Meio ambiente
+      - Descarte irregular
+      - Poda/Remoção não autorizada
+      - Ocupação de área verde
+    - Obras, imóveis e habitação
+      - Irregularidades ou clandestino
+      - Falta de limpeza de terrenos e imóveis
+    - Saúde
+      - Acumulo de água limpa e parada
