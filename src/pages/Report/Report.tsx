@@ -10,6 +10,12 @@ export default function Report() {
       <RadioBox description="Como tapa-buracos, coleta de entulhos, etc">
         Deixar sugestões ou pedidos
       </RadioBox>
+      <RadioBox description="Como tapa-buracos, coleta de entulhos, etc">
+        Deixar sugestões ou pedidos
+      </RadioBox>
+      <RadioBox description="Como tapa-buracos, coleta de entulhos, etc">
+        Deixar sugestões ou pedidos
+      </RadioBox>
     </View>
   );
 }
